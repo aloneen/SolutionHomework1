@@ -1,6 +1,6 @@
 package kz.seisen.Proxy;
 
-class HighResImage implements Image {
+public class HighResImage implements Image {
     private String filename;
 
     public HighResImage(String filename) {

@@ -1,6 +1,6 @@
 package kz.seisen.Proxy;
 
-interface Image {
+public interface Image {
     void display();
     void displayFullImage();
 }
